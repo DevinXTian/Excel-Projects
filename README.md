@@ -12,4 +12,4 @@ Explore each project's dedicated folder to view detailed analyses, visualization
 Objective: Analyze customer orders and product details for a coffee business to identify trends and optimize operations.
 - Techniques Used: Index-Match, XLOOKUP, Pivot Tables
 - Key Insights: Developed strategic recommendations based on sales trends, customer behavior, and product performance.
-- View Project
+- [View Project](https://github.com/DevinXTian/Excel-Projects/tree/main/CoffeeAnalysis)
